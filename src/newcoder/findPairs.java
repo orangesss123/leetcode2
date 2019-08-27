@@ -22,6 +22,7 @@ public class findPairs {
 	                count+=n%y-k+1;
 			}
 			System.out.print(count);
+			System.out.print("this is v2");
 		}
 	}
 
